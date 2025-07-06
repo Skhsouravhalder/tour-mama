@@ -1,0 +1,8 @@
+    *{
+          font-family: "Plus Jakarta Sans", sans-serif;
+
+    }
+    body{
+        min-height: 100vh;
+        background-image: linear-gradient(#FFFFFF,#EBDCFF);
+    }
